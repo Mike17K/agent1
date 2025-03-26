@@ -9,7 +9,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/example/project.git
+   git clone https://github.com/Mike17K/agent1.git
 
 ## Run
 have ollama installed 

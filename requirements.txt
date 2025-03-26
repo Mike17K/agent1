@@ -1,0 +1,9 @@
+pydantic
+fastapi
+transformers
+uvicorn
+requests
+urllib
+langchain
+openai
+langchain_google_community
